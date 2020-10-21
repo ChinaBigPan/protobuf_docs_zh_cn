@@ -1,25 +1,25 @@
 ---
 home: true
-heroImage: /images/hero.png
-heroText: Hero 标题
-tagline: Hero 副标题
-actionText: 快速上手 →
-actionLink: /routes/
+heroImage: /images/logo.png
+heroText: protobuf.js
+tagline: protobuf.js 是由 TypeScript 编写的纯 JavaScript 实现 Protocol Buffers 的框架，支持 node.js 和浏览器。
+actionText: v 6.10.1 →
+actionLink: /routes/installation
 meta:
   - name: description
-    content: 模板
+    content: protobuf.js 是纯 JavaScript 实现 Protocol Buffers 的框架，并通过 TypeScript 支持 node.js 和浏览器。
   - name: keywords
-    content: 关键词, 关键词
+    content: protobuf.js, Protocol Buffers, TypeScript, 浏览器
   - name: feversion
-    content: 版本号
+    content: v 6.10.1
   - name: fetags
-    content: "[{'kind': 'node'}, {'kind':'js', 'text': 'js'}]"
+    content: "[{'kind': 'iconNodejs', 'text': 'Node.js'}, {'kind': 'icontypescript', 'text': 'ts'}]"
 features:
-  - title: 简洁至上
-    details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
-  - title: Vue驱动
-    details: 享受 Vue + webpack 的开发体验，在 Markdown 中使用 Vue 组件，同时可以使用 Vue 来开发自定义主题。
-  - title: 高性能
-    details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
-footer: MIT Licensed | Translated By 大笑
+  - title: 数据结构
+    details: Protocol Buffers 是一种与语言和平台无关、可扩展的序列化结构化数据的方法，用于通信协议、数据存储等，最初由谷歌设计。
+  - title: 简单
+    details: 它使用起来很简单，速度非常快，并且可以使用 .proto 文件。
+  - title: 
+    details: 
+footer: MIT Licensed | Developed By Daniel Wirtz and Nicolas Noble | Translated By 大笑
 ---

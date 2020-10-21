@@ -1,7 +1,7 @@
 module.exports= {
-    title: '起手模板',
+    title: 'protobuf.js',
     description: "别忘了改改它",
-    base: '/dont-forget-this/',
+    base: '/protobuf_docs_zh_cn/',
     markdown: {
         lineNumbers: true,
         anchor: {
@@ -24,18 +24,23 @@ module.exports= {
         ],
         sidebar: [
             {
-                title: '首页',
-                path: '/',
-                sidebarDepth: 2
-            },
-            {
-                title: 'Logo写了吗',
+                title: '开始',
                 path: '/routes/',
                 sidebarDepth: 2
             },
             {
-                title: '版本号写了么',
-                path: '/routes/chapter1.html',
+                title: '安装',
+                path: '/routes/installation',
+                sidebarDepth: 2
+            },
+            {
+                title: '使用',
+                path: '/routes/usage',
+                sidebarDepth: 2
+            },
+            {
+                title: '示例',
+                path: '/routes/examples',
                 sidebarDepth: 2
             }
         ]
