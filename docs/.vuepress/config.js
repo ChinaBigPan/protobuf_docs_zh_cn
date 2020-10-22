@@ -47,6 +47,16 @@ module.exports= {
                 title: "命令行",
                 path: '/routes/command_line',
                 sidebarDepth: 2
+            },
+            {
+                title: "性能",
+                path: '/routes/performance',
+                sidebarDepth: 2
+            },
+            {
+                title: "构建",
+                path: '/routes/building',
+                sidebarDepth: 2
             }
         ]
     },
