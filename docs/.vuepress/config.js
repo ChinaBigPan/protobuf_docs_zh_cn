@@ -42,6 +42,11 @@ module.exports= {
                 title: '示例',
                 path: '/routes/examples',
                 sidebarDepth: 2
+            },
+            {
+                title: "命令行",
+                path: '/routes/command_line',
+                sidebarDepth: 2
             }
         ]
     },

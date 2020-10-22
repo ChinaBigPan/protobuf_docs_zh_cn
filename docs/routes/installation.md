@@ -47,7 +47,7 @@ var protobuf = require("protobufjs");
 
 在需要考虑包容量的情况下，我们还提供了[完整库][完整库]的简化版本(gzip 后约 19kb)，它排除了部分功能：
 
-- 当仅使用 JSON 描述符(比如，由[pbjs][pbjs]生成)和/或反射时，可以使用不含解析器的[light库][light库](gzip 后约 16kb)。CommonJS 入口为:
+- 当仅使用 JSON 格式(比如，由[pbjs][pbjs]生成)和/或反射时，可以使用不含解析器的[light库][light库](gzip 后约 16kb)。CommonJS 入口为:
 
 ```js
 var protobuf = require("protobufjs/light");
