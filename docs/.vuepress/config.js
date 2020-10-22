@@ -1,6 +1,6 @@
 module.exports= {
     title: 'protobuf.js',
-    description: "别忘了改改它",
+    description: "protobuf.js 是由 TypeScript 编写的纯 JavaScript 实现 Protocol Buffers 的框架，支持 node.js 和浏览器。",
     base: '/protobuf_docs_zh_cn/',
     markdown: {
         lineNumbers: true,

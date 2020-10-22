@@ -1,7 +1,7 @@
 {
   "name": "protobuf_docs_zh_cn",
   "version": "6.10.1",
-  "description": "",
+  "description": "protobuf.js 是由 TypeScript 编写的纯 JavaScript 实现 Protocol Buffers 的框架，支持 node.js 和浏览器。",
   "main": "index.js",
   "author": "大笑 <daguogxp@qq.com>",
   "scripts": {
